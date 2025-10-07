@@ -1,4 +1,3 @@
 # SQL-FINAL
 
-FactoryDB - на 3
-\n FactoryDB1 - на 5
+FactoryDB - на 3, FactoryDB1 - на 5
